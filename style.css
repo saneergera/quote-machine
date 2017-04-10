@@ -1,7 +1,7 @@
 body 
 {
 
-background-image: url("bg/2.jpg");
+background-image: url("bg/1.jpg");
 background-size: cover;
 padding: 0px;
 margin: 0px;
@@ -15,7 +15,7 @@ margin: 0px;
 	margin: auto;
 	position: relative;
 	top: 180px;
-	color: white;
+	color: red;
 	
 }
 .fa-twitter
