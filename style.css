@@ -1,0 +1,76 @@
+body 
+{
+
+background-image: url("bg/2.jpg");
+background-size: cover;
+padding: 0px;
+margin: 0px;
+}
+.container
+{
+
+	width: 514px;
+	height: 250px;
+	
+	margin: auto;
+	position: relative;
+	top: 180px;
+	color: white;
+	
+}
+.fa-twitter
+{
+
+font-size: x-large!important;
+margin-top: 30%;
+
+
+}
+.quote
+{font-family: "Lucida Bright";
+	font-style: italic;
+	font-size: 40px;}
+
+#author
+{
+
+font-family: "Lucida Bright";
+	font-style: italic;
+	font-size: 20px;
+
+
+}
+.fa-arrow-right
+{
+font-size: x-large!important;
+margin-top: 30%;
+	
+}
+#btn-1
+{
+
+border-radius: 35px;
+height:60px;
+width: 60px;
+
+
+position: relative;
+top: 20px;
+border: 3px solid white;
+left: 80px;
+text-align: center;
+
+
+}
+#btn-2
+{
+
+border-radius: 35px;
+height: 60px;
+width: 60px;
+position: relative;
+top:-48px;
+border: 3px solid white;
+text-align: center;
+
+}

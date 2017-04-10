@@ -1,0 +1,1 @@
+In this Project I am using an API which generates random quotes .I have used Ajax to Get data from API and then displayed it .Along that I am using Jquery ,Html ,Css
